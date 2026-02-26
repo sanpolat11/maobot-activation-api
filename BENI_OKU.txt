@@ -1,0 +1,81 @@
+╔═══════════════════════════════════════════════════════════╗
+║         MAOBOT ACTIVATION API - HIZLI BAŞLANGIÇ          ║
+╚═══════════════════════════════════════════════════════════╝
+
+📋 API'Yİ BAŞLATMAK İÇİN (SÜPER KOLAY!):
+
+┌─────────────────────────────────────────────────────────┐
+│ YÖNTEM 1: ÇİFT TIKLA (EN KOLAY) ⭐⭐⭐                   │
+└─────────────────────────────────────────────────────────┘
+  1. "API_BASLAT.bat" dosyasına ÇİFT TIKLA
+  2. Bitti! API başladı
+  3. Pencereyi kapat
+
+┌─────────────────────────────────────────────────────────┐
+│ YÖNTEM 2: KONTROL ET                                    │
+└─────────────────────────────────────────────────────────┘
+  1. "API_KONTROL.bat" dosyasına ÇİFT TIKLA
+  2. API çalışıyor mu göreceksin
+
+┌─────────────────────────────────────────────────────────┐
+│ YÖNTEM 3: DURDUR                                        │
+└─────────────────────────────────────────────────────────┘
+  1. "API_DURDUR.bat" dosyasına ÇİFT TIKLA
+  2. API durur
+
+
+🔍 API ÇALIŞIYOR MU KONTROL ET:
+
+  • "API_KONTROL.bat" dosyasına ÇİFT TIKLA
+  • Veya tarayıcıda aç: http://192.168.1.178:8080/health
+
+
+🛑 API'Yİ DURDURMAK İÇİN:
+
+  • "API_DURDUR.bat" dosyasına ÇİFT TIKLA
+
+
+⚙️ OTOMATİK BAŞLATMA (Windows Başlangıç):
+
+  1. Windows + R → "shell:startup" yaz → Enter
+  2. "start_api_background.vbs" kısayolunu buraya kopyala
+  3. Artık PC açılınca API otomatik başlar!
+
+
+📖 DETAYLI REHBERİ OKU:
+
+  • "API_NASIL_BASLATILIR.md" dosyasını aç
+  • Tüm detaylar ve sorun giderme orada!
+
+
+⚠️ SORUN GİDERME:
+
+  Problem: "API'ye bağlanılamıyor"
+  Çözüm: API_BASLAT.bat çift tıkla
+
+  Problem: "Port 8080 kullanımda"
+  Çözüm: API_DURDUR.bat çift tıkla, sonra API_BASLAT.bat çift tıkla
+
+  Problem: Çift tıklama çalışmıyor
+  Çözüm: Dosyaya SAĞ TIK → "Yönetici olarak çalıştır"
+
+
+📞 ÖNEMLİ BİLGİLER:
+
+  • API URL: http://192.168.1.178:8080
+  • Port: 8080
+  • GitHub: https://github.com/sanpolat11/maobot-licenses
+  • API Secret: maobot-secret-2026
+
+
+✅ HIZLI TEST:
+
+  1. start_api_background.vbs çift tıkla
+  2. 5 saniye bekle
+  3. Tarayıcıda aç: http://192.168.1.178:8080/health
+  4. "status": "ok" görüyorsan → Bot'u başlat!
+
+
+═══════════════════════════════════════════════════════════
+İyi kullanımlar! 🚀
+═══════════════════════════════════════════════════════════

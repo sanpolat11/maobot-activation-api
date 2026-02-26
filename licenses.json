@@ -1,0 +1,33 @@
+{
+  "keys": {
+    "1M-APITEST557": {
+      "type": "1 Dakika",
+      "hardware_id": "TEST-HARDWARE-ID-12345",
+      "activated_at": "2026-02-25T23:40:01.689793",
+      "expires": "2026-02-25T23:41:01.689793",
+      "active": true
+    },
+    "1M-BOTTEST840": {
+      "type": "1 Dakika",
+      "hardware_id": "E3F870AC491A7A270670C88459C5729C",
+      "activated_at": "2026-02-25T23:41:24.849798",
+      "expires": "2026-02-25T23:42:24.849798",
+      "active": true
+    },
+    "1M-FINAL682": {
+      "type": "1 Dakika",
+      "hardware_id": "E3F870AC491A7A270670C88459C5729C",
+      "activated_at": "2026-02-25T23:46:24.366842",
+      "expires": "2026-02-25T23:47:24.366842",
+      "active": true
+    },
+    "15D-REALTEST942": {
+      "type": "15 Gün",
+      "hardware_id": "E3F870AC491A7A270670C88459C5729C",
+      "activated_at": "2026-02-25T23:49:39.257777",
+      "expires": "2026-03-12T23:49:39.257777",
+      "active": true
+    }
+  },
+  "last_updated": "2026-02-25T23:49:39.257792"
+}

@@ -1,0 +1,93 @@
+╔═══════════════════════════════════════════════════════════╗
+║              MAOBOT API YÖNETİMİ - SÜPER KOLAY           ║
+╚═══════════════════════════════════════════════════════════╝
+
+🎯 BU KLASÖRDE 4 DOSYA VAR:
+
+┌─────────────────────────────────────────────────────────┐
+│ 1. API_BASLAT_PENCERE.bat (YEŞIL) ⭐ ÖNERİLEN!         │
+└─────────────────────────────────────────────────────────┘
+   • ÇİFT TIKLA → API başlar
+   • Yeşil pencere AÇIK KALIR
+   • ⚠️ Bu pencereyi KAPATMA! (API çalışıyor)
+   • Bot'u başlat
+   • ✅ En güvenilir yöntem!
+
+┌─────────────────────────────────────────────────────────┐
+│ 2. API_BASLAT.bat (YEŞIL) - Arka Plan                  │
+└─────────────────────────────────────────────────────────┘
+   • ÇİFT TIKLA → API arka planda başlar
+   • Pencereyi kapatabilirsin
+   • Bazen çalışmayabilir
+
+┌─────────────────────────────────────────────────────────┐
+│ 3. API_KONTROL.bat (MAVİ) 🔍                            │
+└─────────────────────────────────────────────────────────┘
+   • ÇİFT TIKLA → API durumunu kontrol eder
+   • Mavi pencere açılır
+   • "API CALISIYOR!" veya "API CALISMIYOR!" gösterir
+
+┌─────────────────────────────────────────────────────────┐
+│ 4. API_DURDUR.bat (KIRMIZI) 🛑                          │
+└─────────────────────────────────────────────────────────┘
+   • ÇİFT TIKLA → API durur
+   • Kırmızı pencere açılır
+   • "API DURDURULDU!" mesajını gör
+
+
+═══════════════════════════════════════════════════════════
+
+⚡ HIZLI BAŞLANGIÇ:
+
+  1. API_BASLAT_PENCERE.bat çift tıkla ⭐
+  2. Yeşil pencere açılır - KAPATMA!
+  3. 5 saniye bekle
+  4. Bot'u başlat (Build\MaoBot.exe)
+  5. ✅ Çalışıyor!
+
+
+═══════════════════════════════════════════════════════════
+
+🎨 RENK KODLARI:
+
+  • YEŞIL = Başlat
+  • MAVİ = Kontrol
+  • KIRMIZI = Durdur
+
+
+═══════════════════════════════════════════════════════════
+
+⚠️ SORUN GİDERME:
+
+  Problem: Çift tıklama çalışmıyor
+  Çözüm: Dosyaya SAĞ TIK → "Yönetici olarak çalıştır"
+
+  Problem: "API CALISMIYOR!" diyor
+  Çözüm: API_BASLAT.bat çift tıkla
+
+  Problem: "Port 8080 kullanımda"
+  Çözüm: API_DURDUR.bat çift tıkla, sonra API_BASLAT.bat
+
+
+═══════════════════════════════════════════════════════════
+
+📞 ÖNEMLİ BİLGİLER:
+
+  • API URL: http://192.168.1.178:8080
+  • Port: 8080
+  • Tarayıcıda test: http://192.168.1.178:8080/health
+
+
+═══════════════════════════════════════════════════════════
+
+✅ İLK KULLANIM:
+
+  1. Bu klasörü masaüstüne kopyala (isteğe bağlı)
+  2. API_BASLAT.bat çift tıkla
+  3. API_KONTROL.bat ile kontrol et
+  4. Bot'u başlat!
+
+
+═══════════════════════════════════════════════════════════
+İyi kullanımlar! 🚀
+═══════════════════════════════════════════════════════════
